@@ -1,0 +1,13 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mime","time":"2023-04-08T09:43:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/pbjs","time":"2023-04-08T09:43:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/pbts","time":"2023-04-08T09:43:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/pino","time":"2023-04-08T09:43:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/qrcode","time":"2023-04-08T09:43:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/qrcode-terminal","time":"2023-04-08T09:43:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/@adiwajshing/baileys/node_modules/.bin/pbjs","time":"2023-04-08T09:43:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/@adiwajshing/baileys/node_modules/.bin/pbts","time":"2023-04-08T09:43:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/@adiwajshing/baileys/node_modules/.bin/pino","time":"2023-04-08T09:43:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/@adiwajshing/baileys/node_modules/.bin/qrcode-terminal","time":"2023-04-08T09:43:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/libsignal/node_modules/.bin/pbjs","time":"2023-04-08T09:43:54Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/libsignal/node_modules/.bin/pbts","time":"2023-04-08T09:43:54Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/send/node_modules/.bin/mime","time":"2023-04-08T09:43:55Z"}
